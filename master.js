@@ -18,16 +18,16 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 {a_to_vh=true;}
 j++;}
 if(a_to_vh==false)
-{var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*5)+1);var xxx=null;if(x=="1"){xxx="/2019/08/manufacturing-capacity-planning-software.html"}
-if(x=="2"){xxx="/2019/08/cloud-based-manufacturing-software.html"}
-if(x=="3"){xxx="/2019/08/process-manufacturing-ERP-software.html"}
-if(x=="4"){xxx="/2019/08/manufacturing-scheduling-software-free.html"}
-if(x=="5"){xxx="/2019/08/production-scheduling-software-for-manufacturing.html"}
-if(x=="6"){xxx="/2019/08/cloud-based-ERP-systems-for-manufacturing.html"}
-if(x=="7"){xxx="/2019/08/manufacturing-software-for-quickbooks.html"}
-if(x=="8"){xxx="/2019/08/production-management-system-software.html"}
-if(x=="9"){xxx="/2019/08/cost-accounting-software-for-manufacturing.html"}
-if(x=="10"){xxx="/2019/08/manufacturing-software-free-download.html"}a_to_ve[i].href="http://www.customizedcricuitboard.review"+xxx+"?url="+encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+a_to_ve[i].href+"\n";}}
+{var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*10)+1);var xxx=null;if(x=="1"){xxx="/2019/08/top-5-names-of-free-manufacturing.html"}
+if(x=="2"){xxx="/2019/08/quickbooks-enterprise-best-cost.html"}
+if(x=="3"){xxx="/2019/08/the-best-production-management-system.html"}
+if(x=="4"){xxx="/2019/08/quickbooks-online-review-tips-pros-and.html"}
+if(x=="5"){xxx="/2019/08/best-cloud-based-erp-systems-for.html"}
+if(x=="6"){xxx="/2019/08/best-production-scheduling-software-for.html"}
+if(x=="7"){xxx="/2019/08/best-manufacturing-scheduling-software.html"}
+if(x=="8"){xxx="/2019/08/best-process-manufacturing-erp-software.html"}
+if(x=="9"){xxx="/2019/08/the-benefit-of-cloud-based.html"}
+if(x=="10"){xxx="/2019/08/how-to-choose-manufacturing-capacity.html"}a_to_ve[i].href="https://erp.okenews.site"+xxx+"?url="+encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
